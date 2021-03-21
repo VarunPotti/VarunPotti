@@ -38,4 +38,6 @@
 </p>
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpotti&show_icons=true&locale=en&layout=compact" alt="varunpotti" /></p>
+| Stats        | Wakatime           |
+| ------------- |:-------------:|
+| [![VarunPotti's github stats](https://github-readme-stats.vercel.app/api?username=varunpotti&show_icons=true&theme=radical&count_private=true)]() | [![VarunPotti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=varunpotti&theme=radical)]() |
