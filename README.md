@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Potti</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunpotti" alt="varunpotti" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pottivarun" target="blank"><img src="https://img.shields.io/twitter/follow/pottivarun?logo=twitter&style=for-the-badge" alt="pottivarun" /></a> </p>
 
 - 🔭 I’m currently working on **CodeMate**
@@ -41,5 +39,3 @@
 <br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpotti&show_icons=true&locale=en&layout=compact" alt="varunpotti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunpotti&" alt="varunpotti" /></p>
