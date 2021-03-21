@@ -38,6 +38,6 @@
 </p>
 <br />
 
-| Stats        | Wakatime           |
+| Stats        |    Coding       |
 | ------------- |:-------------:|
-| [![VarunPotti's github stats](https://github-readme-stats.vercel.app/api?username=varunpotti&show_icons=true&theme=radical&count_private=true)]() | [![VarunPotti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=varunpotti&theme=radical)]() |
+| [![VarunPotti's github stats](https://github-readme-stats.vercel.app/api?username=varunpotti&show_icons=true&theme=radical&count_private=true)]() | [![VarunPotti's Coding stats](https://github-readme-stats.vercel.app/api/top-langs?username=varunpotti&show_icons=true&locale=en&layout=compact" alt="varunpotti") |
