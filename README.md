@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
 
 </p>
-
+<br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpotti&show_icons=true&locale=en&layout=compact" alt="varunpotti" /></p>
 
