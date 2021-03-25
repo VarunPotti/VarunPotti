@@ -41,4 +41,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=varunpotti&show_icons=true&theme=radical&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varunpotti&show_icons=true&locale=en&layout=compact&count_private=true" />
   </div>
-Also complete this survey now https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2021-sh?pcode=519436580128967744
