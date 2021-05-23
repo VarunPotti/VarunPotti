@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pottivarun" target="blank"><img src="https://img.shields.io/twitter/follow/pottivarun?logo=twitter&style=for-the-badge" alt="pottivarun" /></a> </p>
 
-- 🔭 I’m currently working on **CodeMate** **Doing both CLI and UI**
+- 🔭 I’m currently working on DBBase
 
 - 🌱 I’m currently learning **C++, Opengl**
 
