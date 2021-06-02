@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pottivarun" target="blank"><img src="https://img.shields.io/twitter/follow/pottivarun?logo=twitter&style=for-the-badge" alt="pottivarun" /></a> </p>
 
-- 🔭 I’m currently working on Talkative.IO(not OSS), <a href="https://github.com/unicron-package-manager/unicron.rs">Unicron</a>, <a href="https://github.com/StaqLang/Staq">Staq</a> and <a href="https://github.com/voltpkg/volt">Volt</a>
+- 🔭 I’m currently working on Talkative.io(not OSS), <a href="https://github.com/unicron-package-manager/unicron.rs">Unicron</a>, <a href="https://github.com/StaqLang/Staq">Staq</a> and <a href="https://github.com/voltpkg/volt">Volt</a>
 - 🌱 I’m currently learning **C++, Opengl**
 
 - 📫 How to reach me **potti.varun07@gmail.com**
