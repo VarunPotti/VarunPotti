@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pottivarun" target="blank"><img src="https://img.shields.io/twitter/follow/pottivarun?logo=twitter&style=for-the-badge" alt="pottivarun" /></a> </p>
 
-- 🔭 I’m currently working on Talkative.IO
+- 🔭 I’m currently working on Talkative.IO(not OSS), <a href="https://github.com/unicron-package-manager/unicron.rs">Unicron</a>, <a href="https://github.com/StaqLang/Staq">Staq</a> and <a href="https://github.com/voltpkg/volt">Volt</a>
 - 🌱 I’m currently learning **C++, Opengl**
 
 - 📫 How to reach me **potti.varun07@gmail.com**
@@ -41,10 +41,14 @@
 <img src="https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript">
 <img src="https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=nextjs">
 <img src="https://img.shields.io/badge/-react-black?style=flat-square&logo=react">
-<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue">
-<img src="https://img.shields.io/badge/-rest-black?style=flat-square&logo=rest">
+<img src="https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=Vue">
+<img src="https://img.shields.io/badge/-restapi-black?style=flat-square&logo=rest">
 <img src="https://img.shields.io/badge/-shell-black?style=flat-square&logo=shell">
 <img src="https://img.shields.io/badge/-powershell-black?style=flat-square&logo=powershell">
+<img src="https://img.shields.io/badge/-reactnative-black?style=flat-square&logo=reactnative">
+<img src="https://img.shields.io/badge/-go-black?style=flat-square&logo=go">
+<img src="https://img.shields.io/badge/-tensorflow-black?style=flat-square&logo=tensorflow">
+<img src="https://img.shields.io/badge/-sklearn-black?style=flat-square&logo=sklearn">
 </p>
 <br />
 <div style="display:flex; justify-content: space-between">
