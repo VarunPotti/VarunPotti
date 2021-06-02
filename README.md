@@ -36,6 +36,15 @@
 <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=C">
 <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++">
 <img src="https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust">
+<img src="https://img.shields.io/badge/-Assembly-black?style=flat-square&logo=assembly">
+<img src="https://img.shields.io/badge/-graphql-black?style=flat-square&logo=graphql">
+<img src="https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript">
+<img src="https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=nextjs">
+<img src="https://img.shields.io/badge/-react-black?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=Vue">
+<img src="https://img.shields.io/badge/-rest-black?style=flat-square&logo=rest">
+<img src="https://img.shields.io/badge/-shell-black?style=flat-square&logo=shell">
+<img src="https://img.shields.io/badge/-powershell-black?style=flat-square&logo=powershell">
 </p>
 <br />
 <div style="display:flex; justify-content: space-between">
